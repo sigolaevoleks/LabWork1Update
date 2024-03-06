@@ -1,3 +1,2 @@
-Шаблонний репозиторій з програмними бібліотеками для створення мультимаркерного WebAR-застосунку.
-
+[https://sigolaevoleks.github.io/Oper_System_Lab_1/](https://sigolaevoleks.github.io/Oper_System_Lab_1/)
 
