@@ -4,13 +4,11 @@
 ![Скріншот 2.2.1](2.2.1.png) 
 Рис. 1 – Скріншот результатів команди 2.2.1
 
-![Скріншот 2.2.2]([Laboratory-work-3/2.2.2.png](https://github.com/sigolaevoleks/Oper_System_Lab_1/blob/Laboratory-work-3/Laboratory-work-3/2.2.2.png))
+![Скріншот 2.2.2](2.2.2.png))
 Рис. 2 – Скріншот результатів команди 2.2.2
 
-![Скріншот 2.2.3](Laboratory-work-3/2.2.3.png)
+![Скріншот 2.2.3](2.2.3.png)
 Рис. 3 – Скріншот результатів команди 2.2.3
 
-![Скріншот 2.2.4](Laboratory-work-3/2.2.4.png)
+![Скріншот 2.2.4](2.2.4.png)
 Рис. 4 – Скріншот результатів команди 2.2.4
-
-![image] (https://user-images.githubusercontent.com/79433255/226539735-4f6144e8-aac9-454a-91de-3af2c302f60f.png)
