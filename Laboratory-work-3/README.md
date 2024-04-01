@@ -4,7 +4,7 @@
 ![Скріншот 2.2.1](2.2.1.png) 
 Рис. 1 – Скріншот результатів команди 2.2.1
 
-![Скріншот 2.2.2](Laboratory-work-3/2.2.2.png)
+![Скріншот 2.2.2]([Laboratory-work-3/2.2.2.png](https://github.com/sigolaevoleks/Oper_System_Lab_1/blob/Laboratory-work-3/Laboratory-work-3/2.2.2.png))
 Рис. 2 – Скріншот результатів команди 2.2.2
 
 ![Скріншот 2.2.3](Laboratory-work-3/2.2.3.png)
